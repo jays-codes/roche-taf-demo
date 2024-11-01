@@ -10,8 +10,16 @@ TO RUN:
 
 dependencies: selenium-java, testng, cucumber-java, cucumber-testng, webdrivermanager, poi, mysql, jackson, extentreports
 
+Activity Log:
 - created Utility.java to read properties from GlobalData.properties; replaced several hardcoded values with calls to Utility.getProperty()
 - Initial sample Test: StandAloneTest.java - Open browser and navigate to roche diagnostics home page
 - setup template for dependencies, 
     packages (src/main/java:pageObjects, util; src/test/java:test, test.components); common files: pageObjects[AbstractComponent, LandingPage], util[ExtentReportNG], test.components[BaseTest, Listeners, Retrier], test.data[ExcelDataUtil, JDBCUtil, JsonDataReader], GlobalData.properties
 - initial project setup
+
+## Framework Diagram
+<object data="roche-taf-demo-diag-2024-11-01-10-05.pdf" type="application/pdf" width="100%" height="500px">
+    <embed src="roche-taf-demo-diag-2024-11-01-10-05.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="roche-taf-demo-diag-2024-11-01-10-05.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
