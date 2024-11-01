@@ -3,6 +3,10 @@ Jay's project repo for a Test Automation framework for Roche
 
 proj: https://github.com/jayslabs/roche-taf-demo | jdk 21, mvn
 
+TO RUN: 
+1. go to project root folder
+2. mvn clean test -Dtest=StandAloneTest
+
 dependencies: selenium-java, testng, cucumber-java, cucumber-testng, webdrivermanager, poi, mysql, jackson, extentreports
 
 - Initial sample Test: StandAloneTest.java - Open browser and navigate to roche diagnostics home page
