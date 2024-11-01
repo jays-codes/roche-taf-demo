@@ -19,12 +19,14 @@ Activity Log:
 
 Improvements Needed/TODOS:
 - A LOT
+- Define TestNG suite
 - Define proper smoketest scenario
 - implement demo for Cucumber - feature files, etc.
 - implement demo for RestAssured for automated API/Integration testing
 - explore using Spring for DI
 - implement demo for CI/CD - mvn:jenkins:dockerize(?) 
 - Application of Extent Reports
+- demo Parallel Execution of Test (TestNG)
 - Headless Execution
 - apply SOLID principles
 - demo for Cloud Testing (Browserstack, etc.)
