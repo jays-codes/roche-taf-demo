@@ -1,6 +1,12 @@
 # roche-taf-demo
 Jay's project repo for a Test Automation framework for Roche
 
+NOTE for David: Buddy, thank you for taking the time to interview me earlier. And thank you for taking a look at this as well. This is all I can manage within a few hours. I've added a file as well for the Peak solution using BST (PeakBST.java) :-D. 
+
+And don't forget to vote if you haven't (hopefully KH wins ;)) Thanks again!
+
+-Jay
+
 proj: https://github.com/jayslabs/roche-taf-demo | jdk 21, mvn
 
 TO RUN: 
