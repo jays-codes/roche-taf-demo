@@ -6,6 +6,7 @@ proj: https://github.com/jayslabs/roche-taf-demo | jdk 21, mvn
 TO RUN: 
 1. go to project root folder
 2. mvn clean test -Dtest=StandAloneTest
+3. Test Results are generated in <project root>/test-output/index.html
 
 dependencies: selenium-java, testng, cucumber-java, cucumber-testng, webdrivermanager, poi, mysql, jackson, extentreports
 
