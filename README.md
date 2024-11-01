@@ -18,8 +18,4 @@ Activity Log:
 - initial project setup
 
 ## Framework Diagram
-<object data="roche-taf-demo-diag-2024-11-01-10-05.pdf" type="application/pdf" width="100%" height="500px">
-    <embed src="roche-taf-demo-diag-2024-11-01-10-05.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="roche-taf-demo-diag-2024-11-01-10-05.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<img src="roche-tafdemo-diag.png" alt="Framework Diagram" width="100%">
