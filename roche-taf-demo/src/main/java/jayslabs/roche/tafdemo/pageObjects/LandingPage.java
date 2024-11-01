@@ -1,11 +1,13 @@
 package jayslabs.roche.tafdemo.pageObjects;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
+import jayslabs.roche.tafdemo.Utility;
+
 public class LandingPage extends AbstractComponent{
 
-	
 	WebDriver driver;
 	
 	public LandingPage(WebDriver driver) {
@@ -15,7 +17,7 @@ public class LandingPage extends AbstractComponent{
 	}
 		
 	public void goTo() {
-		driver.get("https://diagnostics.roche.com/global/en/home.html");
+		driver.get(Utility.getProperty("landingPageUrl"));
 	}
 	
 
