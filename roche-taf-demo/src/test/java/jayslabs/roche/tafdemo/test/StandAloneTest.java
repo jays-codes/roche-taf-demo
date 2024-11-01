@@ -1,10 +1,9 @@
 package jayslabs.roche.tafdemo.test;
 
-import java.time.Duration;
-import jayslabs.roche.tafdemo.test.components.BaseTest;
-
-import org.testng.annotations.Test;
 import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import jayslabs.roche.tafdemo.test.components.BaseTest;
 
 public class StandAloneTest extends BaseTest {
 
