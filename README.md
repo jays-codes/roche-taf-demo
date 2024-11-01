@@ -17,5 +17,17 @@ Activity Log:
     packages (src/main/java:pageObjects, util; src/test/java:test, test.components); common files: pageObjects[AbstractComponent, LandingPage], util[ExtentReportNG], test.components[BaseTest, Listeners, Retrier], test.data[ExcelDataUtil, JDBCUtil, JsonDataReader], GlobalData.properties
 - initial project setup
 
+Improvements Needed/TODOS:
+- A LOT
+- Define proper smoketest scenario
+- implement demo for Cucumber - feature files, etc.
+- implement demo for RestAssured for automated API/Integration testing
+- explore using Spring for DI
+- implement demo for CI/CD - mvn:jenkins:dockerize(?) 
+- Application of Extent Reports
+- Headless Execution
+- apply SOLID principles
+- demo for Cloud Testing (Browserstack, etc.)
+
 ## Framework Diagram
 <img src="roche-tafdemo-diag.png" alt="Framework Diagram" width="100%">
