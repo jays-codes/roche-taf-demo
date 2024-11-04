@@ -7,7 +7,7 @@ And don't forget to vote if you haven't (hopefully KH wins ;)) Thanks again!
 
 -Jay
 
-proj: https://github.com/jayslabs/roche-taf-demo | jdk 21, mvn
+proj: [roche-taf-demo](https://github.com/jays-codes/roche-taf-demo/tree/master/roche-taf-demo) | jdk 21, Selenium 4.26
 
 TO RUN: 
 1. go to project root folder
